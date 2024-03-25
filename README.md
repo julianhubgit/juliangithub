@@ -1,12 +1,13 @@
 <h1>Hi, I'm Julian! <br/>
+
   
-  <a>Welcome to my GitHub</a> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+  <a>Welcome to my GitHub!</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Editing file permissions for users (employees) in Linux Command Line</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+- <b>Building a virtual network in Cisco Packet Tracer</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -21,10 +22,9 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 
-
 <h2> 🤳 Connect with me on LinkedIn:</h2>
 
-[<img align="left" alt="JoshMadakor  LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Julian Poku-Kyei LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/julian-poku-kyei-2a184b265/
 
