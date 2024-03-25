@@ -7,7 +7,7 @@
 
 - <b>Linux Command Line</b>
   - [Editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
-- <b>Building a virtual network in Cisco Packet Tracer</b>
+- <b>Cisco Packet Tracer</b>
   - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
