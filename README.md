@@ -29,6 +29,9 @@ Over time I developed a passion for cybersecurity with experience as a cybersecu
 
 - <b>Linux Command Line</b>
 - <b>Wireshark</b>
+- <b>Splunk</b>
+- <b>Chronicle</b>
+- <b>Suricata</b>
 - <b>TCPdump</b>
 - <b>Python</b>
 - <b>VirtualBox</b>
