@@ -1,7 +1,13 @@
 <h1>Hi, I'm Julian! <br/>
-
   
   <a>Welcome to my GitHub!</a>
+
+I am a University graduate with a profound interest in technology and a dedication to solving complex problems. 
+
+I am a highly disciplined, articulate, driven and detail oriented cybersecurity analyst. I have a very large enthusiasm for staying up to date on the latest trends to ensure I am knowledgeable and well equipped to deal with potential risks, threats and vulnerabilities while adhering to laws, ethics, guidelines and frameworks to protect organizations, individuals and all sensitive information. 
+
+Over time I developed a passion for cybersecurity with experience as a cybersecurity analyst.
+
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
