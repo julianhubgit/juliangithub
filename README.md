@@ -18,7 +18,7 @@ Over time I developed a passion for cybersecurity with experience as a cybersecu
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Linux Command Line</b>
-  - [Editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
+  - [Auditing and editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
 - <b>Cisco Packet Tracer</b>
   - [Building a virtual network in Cisco Packet Tracer](https://github.com/julianhubgit/CiscoPacketTracerNetwork) 
 - <b>NIST CSF Framework</b>
