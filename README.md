@@ -23,8 +23,8 @@ Over time I developed a passion for cybersecurity with experience as a cybersecu
   - [Demonstrating how to carry out in depth phishing analysis. Identifying malicious techniques using the MITRE ATT&CK framework, using Atomic Red Team tests to conduct attack simulations and creating alerting and detection rules from the attack tests](https://github.com/julianhubgit/PhishingAnalysis)
 - <b>Detecting Malicious behaviour in AWS</b>
   - [Providing a detailed walkthrough on analyzing AWS CloudWatch logs to discover malicious behavior with JQ.](https://github.com/julianhubgit/Detecting-Malicious-behaviour-in-AWS)
-- <b>Linux Command Line</b>
-  - [Auditing and editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
+- <b>Malware Analysis</b>
+  - [Analysis Of Malware Within Sandbox](https://github.com/julianhubgit/Analysis-Of-Malware-Within-Sandbox)
 - <b>Linux Command Line</b>
   - [Auditing and editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
 - <b>Cisco Packet Tracer</b>
