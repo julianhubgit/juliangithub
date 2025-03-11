@@ -40,6 +40,8 @@ Over time I developed a passion for cybersecurity with experience as a cybersecu
 <h2>👨‍💻 Tools</h2>
 
 - <b>Linux Command Line</b>
+- <b>Burpsuite</b>
+- <b>AWS</b>
 - <b>Wireshark</b>
 - <b>Splunk</b>
 - <b>Chronicle</b>
