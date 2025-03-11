@@ -55,7 +55,7 @@ Over time I developed a passion for cybersecurity with experience as a cybersecu
 <h2>👨‍💻 Certifications</h2>
 
 - <b>CompTIA A+</b>
-- <b>CompTIA Security+ - expected April 2024</b>
+- <b>CompTIA Security+</b>
 - <b>Google Cybersecurity Professional Certificate</b>
 
 <!--
