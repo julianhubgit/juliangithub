@@ -20,9 +20,9 @@ Over time I developed a passion for cybersecurity with experience as a cybersecu
 - <b>Exploring And Remediating XXE Using Burpsuite</b>
   - [Understanding the basic concepts related to XML, exploring XML External Entity (XXE) and its components and learning how to exploit and remediate the vulnerability](https://github.com/julianhubgit/Exploring-And-Remediating-XXE-Using-Burpsuite)
 - <b>Phishing Analysis</b>
-  - [I will demonstrate how to carry out in depth phishing analysis. I will be identifying malicious techniques using the MITRE ATT&CK framework, using Atomic Red Team tests to conduct attack simulations and creating alerting and detection rules from the attack tests](https://github.com/julianhubgit/PhishingAnalysis)
-- <b>Linux Command Line</b>
-  - [Auditing and editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
+  - [Demonstrating how to carry out in depth phishing analysis. Identifying malicious techniques using the MITRE ATT&CK framework, using Atomic Red Team tests to conduct attack simulations and creating alerting and detection rules from the attack tests](https://github.com/julianhubgit/PhishingAnalysis)
+- <b>Detecting Malicious behaviour in AWS</b>
+  - [Providing a detailed walkthrough on analyzing AWS CloudWatch logs to discover malicious behavior with JQ.](https://github.com/julianhubgit/Detecting-Malicious-behaviour-in-AWS)
 - <b>Linux Command Line</b>
   - [Auditing and editing file permissions for users (employees) in Linux Command Line](https://github.com/julianhubgit/LinuxFilePermissions)
 - <b>Linux Command Line</b>
